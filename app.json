@@ -9,7 +9,7 @@
     "rtf",
     "odt"
   ],
-  "companyName": "[ COMPANY NAME HERE ]",
+  "companyName": "Pixelated people",
   "companyLogoPath": "",
   "companyUrl": "",
   "careersUrl": "",
@@ -24,9 +24,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ CORP TOKEN HERE ]",
+    "corpToken": "3CXK0G",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "23",
     "fields": [
       "id",
       "title",
